@@ -24,6 +24,12 @@ const data = {
       description: 'Bag of Reeses Pieces',
       quantity: 1,
     },
+    {
+      id: 50,
+      name: 'Star Wars Blue Ray Collection',
+      description: 'Blue Ray DVD Collection of the greatest masterpiece franchise, Star Wars ',
+      quantity: 1,
+    },
   ],
 };
 
