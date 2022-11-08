@@ -30,6 +30,12 @@ const data = {
       description: 'Blue Ray DVD Collection of the greatest masterpiece franchise, Star Wars ',
       quantity: 1,
     },
+    {
+      id: 60,
+      name: 'Jersey',
+      description: 'North Dakota State Bison Jersey',
+      quantity: 1,
+    },
   ],
 };
 
